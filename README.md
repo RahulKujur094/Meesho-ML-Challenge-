@@ -8,3 +8,8 @@ Have you ever encountered a product listing on an e-commerce platform where the 
 
 Problem Statement
 This competition challenges you to develop a robust machine learning model that can accurately predict various product attributes (such as color, pattern, and sleeve length) solely from product images.
+
+
+DOWNLOAD DATA SETS-
+
+kaggle competitions download -c visual-taxonomy
